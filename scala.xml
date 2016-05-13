@@ -1,0 +1,10 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
+    <option name="SHOW_TYPE_TOOLTIP_DELAY" value="100" />
+    <option name="COMPILE_SERVER_PORT" value="4227" />
+    <option name="COMPILE_SERVER_ID" value="bfea793f-2f70-4d45-a57a-e4d35baf5513" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2048" />
+  </component>
+</application>

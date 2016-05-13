@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <EXCLUDED_PACKAGE NAME="org.specs2.Specification" />
+  </component>
+</application>
