@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.conf" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -18,8 +18,8 @@
       <mask>*.scala.html</mask>
       <mask>*.sql</mask>
       <mask>*.scss</mask>
-      <mask>*.scala</mask>
       <mask>*.conf</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
