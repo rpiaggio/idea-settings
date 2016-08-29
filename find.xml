@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -16,10 +18,10 @@
       <mask>*.html</mask>
       <mask>*.java</mask>
       <mask>*.scala.html</mask>
-      <mask>*.sql</mask>
       <mask>*.scss</mask>
       <mask>*.conf</mask>
       <mask>*.scala</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
