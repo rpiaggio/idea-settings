@@ -41,6 +41,7 @@
     <option name="SELECTION_FOREGROUND" value="fdf6e3" />
     <option name="TEARLINE_COLOR" value="93a1a1" />
     <option name="WHITESPACES" value="93a1a1" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f2e7d3" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -708,6 +709,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="cccccc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -809,6 +816,12 @@
       <value>
         <option name="EFFECT_COLOR" value="586e75" />
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="ffec8c" />
+        <option name="ERROR_STRIPE_COLOR" value="fad932" />
       </value>
     </option>
     <option name="DJANGO_COMMENT">
@@ -1124,9 +1137,6 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
       </value>
-    </option>
-    <option name="HAML_RUBY_CODE">
-      <value />
     </option>
     <option name="HAML_RUBY_START">
       <value>
@@ -1545,9 +1555,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1680,6 +1687,24 @@
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="c3d4d1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="edae8e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ebeb9d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2785,6 +2810,12 @@
       <value>
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SPY-JS.PATH_LEVEL_ONE">
+      <value>
+        <option name="BACKGROUND" value="e9f9fb" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SQL_BAD_CHARACTER">
