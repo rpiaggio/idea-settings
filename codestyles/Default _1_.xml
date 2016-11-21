@@ -1,5 +1,11 @@
 <code_scheme name="Default (1)">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <ScalaCodeStyleSettings>
+    <option name="PUBLIC_PROPERTY_TYPE_ANNOTATION" value="1" />
+    <option name="PROTECTED_PROPERTY_TYPE_ANNOTATION" value="1" />
+    <option name="PUBLIC_METHOD_TYPE_ANNOTATION" value="1" />
+    <option name="PROTECTED_METHOD_TYPE_ANNOTATION" value="1" />
+  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
