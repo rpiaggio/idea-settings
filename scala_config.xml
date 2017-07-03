@@ -1,9 +1,0 @@
-<application>
-  <component name="ScalaApplicationSettings">
-    <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
-    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
-  </component>
-  <component name="TypeAwareHighlightingApplicationState">
-    <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
-  </component>
-</application>
